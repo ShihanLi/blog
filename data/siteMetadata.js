@@ -6,7 +6,7 @@ const siteMetadata = {
   description: 'A blog of thoughts',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'http://localhost:3000',
+  siteUrl: 'https://blog-lilac-two-20.vercel.app',
   siteRepo: 'https://github.com/ShihanLi/blog',
   siteLogo: '/static/images/logo.png',
   socialBanner: '/static/images/twitter-card.png',
